@@ -75,6 +75,7 @@ footer {
 
   .step-box {
     margin: 20px auto;
+    width: 90%;
   }
 
   .step-box:first-child {
